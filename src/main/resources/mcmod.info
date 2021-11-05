@@ -1,0 +1,16 @@
+[
+{
+  "modid": "DynamicLightsPatch",
+  "name": "DynamicLights Patch",
+  "description": "Disable DynamicLights in certain dimensions",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bambam01"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
