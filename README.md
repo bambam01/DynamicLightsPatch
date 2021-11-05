@@ -1,0 +1,1 @@
+you need to add a libs folder to the root and add dynamiclights there to make it build
